@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Dashboard - Power BI Project
+### Global Superstore Market- 
 
 This project showcase use **Pandas ** to analyze real - world sales data, clean it, and draw actionable business conclusions.
 
@@ -6,9 +6,7 @@ This project showcase use **Pandas ** to analyze real - world sales data, clean 
 
 Clean and preprocess the dataset (handle missing values, drop unnecessary columns, rename columns).
 
-Perform data aggregation using groupby() to analyze sales by region, category, and country.
-
-Create visualizations to identify trends, patterns, and outliers in sales data.
+Perform data aggregation using  analyze sales by region, category, and country.
 
 Extract business insights to support decision-making.
 
@@ -20,10 +18,9 @@ Found the most profitable product categories and regions.
 
 Visualized monthly sales trends to understand seasonality.
 
-Correlation analysis helped detect patterns in quantity, profit, and discount.
 
 ## 📁 Files Included:
-- pandas.
+- pandas.ipynb
 
 ## 📌 Tools Used:
 - Power BI
