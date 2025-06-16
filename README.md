@@ -35,6 +35,5 @@ If you'd like to collaborate or hire me:
 ---
 
 ⭐ Star this repo if you like it!
-# Global-Superstore-Market-
 
 
